@@ -125,6 +125,13 @@ const ProgramsDatas = [
         about: "The Linux Foundation aims to makes it easy to sponsor and help train the next generation of open source developers by serving key needs of the community.",
         alt: "LFX Mentorship Program"
     },
+    {
+        link: "https://www.summerofbitcoin.org/",
+        head: "Summer of Bitcoin",
+        image: "../assets/programs-img/SOB.png",
+        about: "Summer of Bitcoin online summer internship program focused on introducing university students to bitcoin open-source development and design",
+        alt: "Summer of Bitcoin"
+    }
 ];
 
 export default ProgramsDatas;
